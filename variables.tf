@@ -17,7 +17,7 @@ variable "environment" {
 variable "managedby" {
   type        = string
   default     = ""
-  description = "ManagedBy, eg 'opsstation'."
+  description = "ManagedBy, eg 'sohanyadav'."
 }
 
 variable "label_order" {
